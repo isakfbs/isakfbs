@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I'm a passionate Software Development student at F
 
 - LinkedIn: [Isak Freires Barbosa da Silva](https://www.linkedin.com/in/isakfbs/)
 - Email: isakfreires98@gmail.com
+- I live in São Paulo, SP. Brasil.
 
 <!--
 **isakfbs/isakfbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
