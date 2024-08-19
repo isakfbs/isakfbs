@@ -1,4 +1,4 @@
-## 👋 Hello! I'm Isak Freires Barbosa da Silva
+## 👋 Hello! I'm Isak Silva
 
 Welcome to my GitHub profile! I'm a passionate Software Development student at FATEC, and I am strongly interested in web development, software engineering, and sustainability Here, you'll find a collection of my projects, experiments, and contributions.
 
