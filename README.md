@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about technology and how it can change the world for the better! I'm deeply interested in new ideas, creativity, software engineering, and sustainability. Here, you'll find a collection of my projects, experiments, and a bit about me and my interests.
 
+
 ## 🚀 About Me
 
 My first experience with programming was in college back in 2016, and honestly, it felt terrible. I felt lost and thought I'd never get the hang of it. But I stuck with it and finished my degree. Even after completing some projects, I still felt frustrated and unsure if this was really what I wanted to do.
@@ -10,14 +11,37 @@ So, I put programming aside and decided to explore other things, learn more abou
 
 In 2019, I went to New Zealand, where I had a life-changing experience. I made friends from all over the world, improved my English, and discovered a lot of interesting things about myself.
 
-continue ...
+And…
+
+<img src="https://github.com/user-attachments/assets/07ce91ac-cd46-4097-80e4-0f3602602fff"
+     alt="Markdown Monster icon"
+     style="float:left; height:30%; width:30%;" /> 
+
+<p>    
+That’s me, fighting a huge and monstrous Troll somewhere in New Zealand. It was a tough battle... and I lost.
+
+After that, I stepped away from everything and threw myself into a journey of self-improvement. I trained hard, took Muay Thai classes, practiced Capoeira acrobatics, and built some muscle. Now, I'm ready for a comeback!
+
+On this journey, besides martial arts, I also developed a few hobbies like cooking, playing the guitar, and spending time in nature.
+
+I also reconnected with my roots, meeting a big part of my family and learning their story, which I hadn't known before.
+
+I encountered amazing people with incredible ideas about the world, including some who were working and traveling as nomads.
+
+This experience inspired me to return to studying programming, driven by the freedom to work from anywhere and the desire to develop technologies that make a difference in the world.
+
+I'm excited to learn and be a part of this community.
+</p> 
 
 
-- 🎓 Currently studying **Software Development** at FATEC.
-- 🛠️ Working on projects that integrate **engineering principles** and **software development**.
-- 🌱 Interested in **sustainability** and how technology can help solve global challenges.
-- 📚 Lifelong learner, continuously expanding my knowledge in programming, software engineering, and more.
-- 🌍 I strive to contribute to projects that positively impact society.
+
+
+🎓 Currently studying **Software Development** at FATEC.
+🛠️ Working on projects that integrate **engineering principles** and **software development**.
+🌱 Interested in **sustainability** and how technology can help solve global challenges.
+📚 Lifelong learner, continuously expanding my knowledge in programming, software engineering, and more.
+🌍 I strive to contribute to projects that positively impact society.
+
 
 ## 🔧 Skills
 
