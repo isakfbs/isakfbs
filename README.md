@@ -37,14 +37,17 @@ I'm excited to learn and be a part of this community.
 
 
 
+## 📆 What I'm Doing Now?:
 
-🎓 Currently studying **Software Development** at FATEC.
+🎓 Currently studying **Software Development** at FATEC in São Paulo, Brasil.
 
-🛠️ Working on projects that integrate **engineering principles** and **software development**.
+🛠️ Working on my tech support business and developing software for service order management.
 
-🌱 Interested in **sustainability** and how technology can help solve global challenges.
+🌱 Developing a project to support agroforestry practices.
 
-📚 Lifelong learner, continuously expanding my knowledge in programming, software engineering, and more.
+🔍 Looking for a job as a developer to kick-start my career.
+
+📚 Lifelong learner, continuously expanding my knowledge in programming, software engineering, and all the topics that spark my interest.
 
 🌍 I strive to contribute to projects that positively impact society.
 
@@ -68,7 +71,6 @@ I'm excited to learn and be a part of this community.
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=isakfbs&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## **Interests:** Software Engineering, Web Development, Project Management, Sustainable Technology
@@ -77,7 +79,6 @@ I'm excited to learn and be a part of this community.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isakfbs/)    [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isak_fbs/)    [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isakfbs)    [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:isakfreires98@gmail.com)
 
-- I live in São Paulo, SP. Brasil.
 
 
 
