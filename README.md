@@ -13,11 +13,9 @@ In 2019, I went to New Zealand, where I had a life-changing experience. I made f
 
 And…
 
-<img src="https://github.com/user-attachments/assets/07ce91ac-cd46-4097-80e4-0f3602602fff"
-     alt="Markdown Monster icon"
-     style="float:left; height:30%; width:30%;" /> 
 
-<p>    
+<img src="https://github.com/user-attachments/assets/07ce91ac-cd46-4097-80e4-0f3602602fff" align="right" style="height:30%; width:30%;" /> 
+
 That’s me, fighting a huge and monstrous Troll somewhere in New Zealand. It was a tough battle... and I lost.
 
 After that, I stepped away from everything and threw myself into a journey of self-improvement. I trained hard, took Muay Thai classes, practiced Capoeira acrobatics, and built some muscle. Now, I'm ready for a comeback!
@@ -31,15 +29,23 @@ I encountered amazing people with incredible ideas about the world, including so
 This experience inspired me to return to studying programming, driven by the freedom to work from anywhere and the desire to develop technologies that make a difference in the world.
 
 I'm excited to learn and be a part of this community.
-</p> 
+
+
+
+
+>"Sometimes life places us in front of giant trolls—challenges that seem impossible to overcome. But just like a hero who rises after defeat, every battle faced is an opportunity to grow stronger and more prepared for the next challenge. Keep fighting and turn every obstacle into a step towards victory."
 
 
 
 
 🎓 Currently studying **Software Development** at FATEC.
+
 🛠️ Working on projects that integrate **engineering principles** and **software development**.
+
 🌱 Interested in **sustainability** and how technology can help solve global challenges.
+
 📚 Lifelong learner, continuously expanding my knowledge in programming, software engineering, and more.
+
 🌍 I strive to contribute to projects that positively impact society.
 
 
