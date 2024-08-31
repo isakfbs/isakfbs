@@ -20,8 +20,14 @@ Welcome to my GitHub profile! I'm a passionate Software Development student at F
 
 - ## 🌐 Connect with Me
 
-- LinkedIn: [Isak Freires Barbosa da Silva](https://www.linkedin.com/in/isakfbs/)
-- Email: isakfreires98@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isakfbs/)
+
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isak_fbs/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isakfbs)
+
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:isakfreires98@gmail.com)
+
 - I live in São Paulo, SP. Brasil.
 
 <!--
