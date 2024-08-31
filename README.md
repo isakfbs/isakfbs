@@ -1,8 +1,17 @@
 ## 👋 Hello! I'm Isak Silva
 
-Welcome to my GitHub profile! I'm a passionate Software Development student at FATEC, and I am strongly interested in web development, software engineering, and sustainability Here, you'll find a collection of my projects, experiments, and contributions.
+Welcome to my GitHub profile! I'm passionate about technology and how it can change the world for the better! I'm deeply interested in new ideas, creativity, software engineering, and sustainability. Here, you'll find a collection of my projects, experiments, and a bit about me and my interests.
 
 ## 🚀 About Me
+
+My first experience with programming was in college back in 2016, and honestly, it felt terrible. I felt lost and thought I'd never get the hang of it. But I stuck with it and finished my degree. Even after completing some projects, I still felt frustrated and unsure if this was really what I wanted to do.
+
+So, I put programming aside and decided to explore other things, learn more about myself, and seek out new experiences.
+
+In 2019, I went to New Zealand, where I had a life-changing experience. I made friends from all over the world, improved my English, and discovered a lot of interesting things about myself.
+
+continue ...
+
 
 - 🎓 Currently studying **Software Development** at FATEC.
 - 🛠️ Working on projects that integrate **engineering principles** and **software development**.
@@ -30,7 +39,7 @@ Welcome to my GitHub profile! I'm a passionate Software Development student at F
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=isakfbs&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## **Interests:** Software Engineering, Web Development, Project Management, Sustainable Technology
 
@@ -39,6 +48,12 @@ Welcome to my GitHub profile! I'm a passionate Software Development student at F
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isakfbs/)    [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isak_fbs/)    [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isakfbs)    [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:isakfreires98@gmail.com)
 
 - I live in São Paulo, SP. Brasil.
+
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=isakfbs&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
 
 <!--
 **isakfbs/isakfbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
