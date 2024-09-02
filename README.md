@@ -50,6 +50,10 @@ I'm excited to learn and be a part of this community.
 
 🔍 Looking for a job as a developer to kick-start my career.
 
+⚔ Working through [The Odin Project JavaScript FullStack course](www.theodinproject.com). 
+
+🔥Working through [Digital Innovation One's Java Spring Boot Bootcamp](https://web.dio.me/track/coding-the-future-claro-java-spring-boot).
+
 📚 Lifelong learner, continuously expanding my knowledge in programming, software engineering, and all the topics that spark my interest.
 
 🌍 I strive to contribute to projects that positively impact society.
